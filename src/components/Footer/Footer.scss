@@ -1,0 +1,9 @@
+$base-color: #52c9e3;
+$secondery-color: #3e8798da;
+
+.footer {
+  font-size: 0.8rem;
+  text-align: center;
+  background: linear-gradient(90deg, $secondery-color 0%, $base-color 100%);
+  padding: 1rem;
+}
