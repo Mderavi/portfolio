@@ -3,7 +3,7 @@ import "./Hero.scss";
 
 const Hero = () => {
   return (
-    <section className="hero-container">
+    <section className="hero-container" id="home">
       <div className="hero-content">
         <h2>Innovative Front-End Developer</h2>
         <p>
@@ -18,7 +18,7 @@ const Hero = () => {
             <img src="./assets/img/react-e.png" alt="" />
           </div>
 
-          <img src="./assets/img/md.jpg" alt="Front end developer" />
+          <img src="./assets/hero.png" alt="Front end developer" />
         </div>
         <div>
           <div className="tech-icon">
