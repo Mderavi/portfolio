@@ -28,8 +28,11 @@ const Navbar = () => {
       {/* <nav className="nav-wrapper"> */}
       <nav className={scrolled ? "scrolled" : ""}>
         <div className="nav-content">
-          <img className="logo" src="./" alt="" />
-
+          <img
+            className="logo"
+            src="./assets/img/MahsaLogo-1.svg"
+            alt="Mahsa"
+          />
           <ul>
             <li>
               <a className="nav-item" href="#home">

@@ -12,7 +12,7 @@ const ContactMe = () => {
           <ContactInfoCard
             iconUrl="./assets/img/envelope.svg"
             text="gmail"
-            link="mailto:mderavi@gmail.com"
+            link="mailto:deravi.mahsa@gmail.com"
           />
           <ContactInfoCard
             iconUrl="./assets/img/github.svg"
